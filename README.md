@@ -66,7 +66,8 @@
 ```bash
 python reader.py
 
-
 ---
-## *** tensorflow 2.x 로 upgrade 벼젼은 deepmoney_v2 폴더 참조
+
+## 6. tensorflow 2.x 로 upgrade 벼젼은 deepmoney_v2 폴더 참조
+
 ---
